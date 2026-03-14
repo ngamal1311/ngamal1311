@@ -1,6 +1,5 @@
 # 💫 About Me:
 IT Student | Future Full Stack Developer
-A lot goes wrong before everything goes right.🤍
 
 
 ## 🌐 Socials:
