@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+IT Student | Future Full Stack Developer
+A lot goes wrong before everything goes right.🤍
 
 
 ## 🌐 Socials:
