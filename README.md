@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 IT Student | Future Full Stack Developer
 
 
